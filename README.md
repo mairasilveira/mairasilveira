@@ -21,6 +21,6 @@ Hoje trabalho com Engenharia Civil e estou cursando Análise e Desenvolvimento d
   <a href = "mailto:silveirasmaira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ma%C3%ADra-silveira-66a960172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rafaballerini/mairasilveira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mairasilveira/mairasilveira/blob/output/github-contribution-grid-snake.svg)
   
   </div>
