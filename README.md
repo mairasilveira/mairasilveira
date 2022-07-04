@@ -17,9 +17,9 @@ Hoje trabalho com Engenharia Civil e estou cursando Análise e Desenvolvimento d
   ##
  
 <div> 
-<a target="_blank" href="https://instagram.com/mairasilveiras" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a target="_blank" href = "mailto:silveirasmaira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/ma%C3%ADra-silveira-66a960172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a target="" href="https://instagram.com/mairasilveiras" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a target="" href = "mailto:silveirasmaira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a target="" href="https://www.linkedin.com/in/ma%C3%ADra-silveira-66a960172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/mairasilveira/mairasilveira/blob/output/github-contribution-grid-snake.svg)
   
