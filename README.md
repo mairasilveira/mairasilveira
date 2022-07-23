@@ -1,6 +1,6 @@
 ## Olá, Eu sou a Maíra!
 
-Civil Engineering and Front-End Developer (☞ﾟヮﾟ)☞
+Engenheira civil e desenvolvedora front-end (☞ﾟヮﾟ)☞
 
 <div align="center">
   <a href="https://github.com/mairasilveira">
