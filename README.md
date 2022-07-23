@@ -1,6 +1,6 @@
 ## Olá, Eu sou a Maíra!
 
-Hoje trabalho com Engenharia Civil e estou cursando Análise e Desenvolvimento de Sistemas (☞ﾟヮﾟ)☞
+Civil Engineering and Front-End Developer (☞ﾟヮﾟ)☞
 
 <div align="center">
   <a href="https://github.com/mairasilveira">
