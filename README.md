@@ -1,4 +1,4 @@
-## Civil Engineering & Front-End Developer
+## Civil Engineering & CRM Intern at Math
 
 <div align="center">
   <a href="https://github.com/mairasilveira">
