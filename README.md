@@ -14,8 +14,11 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
+  <img align="center" alt="Apex" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpAcJa9EY_lnt9n3q9K01u0ZA-9Tb0Y8-tKmHOC1ILvJa4_Y-K4MHi6ohAgrhHdA6Ji60&usqp=CAU">
+  <img align="center" alt="Salesforce" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
+  <img align="center" alt="SOQL" height="30" width="30" src="https://allanoricil.gallerycdn.vsassets.io/extensions/allanoricil/salesforce-soql-editor/1.8.0/1624583472318/Microsoft.VisualStudio.Services.Icons.Default">
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   </div>
   
   ##
