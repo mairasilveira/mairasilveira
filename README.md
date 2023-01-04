@@ -1,4 +1,4 @@
-<h2 align="center"> CRM Intern at Math</h2>
+<h2 align="center"> Salesforce Trainee at Math</h2>
 
 <div align="center">
   <a href="https://github.com/mairasilveira">
